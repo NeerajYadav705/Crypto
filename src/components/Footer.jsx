@@ -21,13 +21,13 @@ const Footer = () => {
             textAlign={["center", "left"]}
           >
             We are the best crypto trading app in India, we provide our guidance
-            at a very cheap price.
+            at a very low price.
           </Text>
         </VStack>
 
         <VStack>
-          {/* <Avatar boxSize={"28"} mt={["4", "0"]}  /> */}
-          {/* <Text>Our Founder</Text> */}
+          <Avatar boxSize={"28"} mt={["4", "0"]}  />
+          <Text>Neeraj Yadav</Text>
         </VStack>
       </Stack>
     </Box>
